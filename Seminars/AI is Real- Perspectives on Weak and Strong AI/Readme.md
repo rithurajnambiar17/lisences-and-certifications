@@ -1,9 +1,6 @@
-# [Udemy](https://www.udemy.com/)
-## Complete Machine Learning and Data Science Bootcamp
-## Zero To Mastery
+# [Vellore Institute of Technology, Bhopal](https://www.vitbhopal.ac.in/)
+## [AI Conclave 2021](https://aivit.tech/)
 
-Date of Issuance 29/03/2021 
-Rithuraj Nambiar successfully completed the [Complete Machine Learning and Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
-![Certificate-Image](https://github.com/rithurajnambiar17/lisences-and-certifications/blob/master/Courses/Complete%20Machine%20Learning%20and%20Data%20Science%20Bootcamp%20-%20Zero%20To%20Mastery/Complete%20Machine%20Learning%20and%20Data%20Science%20Bootcamp%20-%20Zero%20To%20Mastery.jpg)
-
-## [Verify the certificate here!](ude.my/UC-8aec3443-7cad-4625-9696-961196939580)
+Date of Issuance 26/02/2021 <br>
+Rithuraj Nambiar participated in session <b>AI is real: Perspectives on Weak and Strong AI</b>
+![Certificate-Image](https://github.com/rithurajnambiar17/lisences-and-certifications/blob/master/Seminars/AI%20is%20Real-%20Perspectives%20on%20Weak%20and%20Strong%20AI/AI%20is%20Real-%20Perspectives%20on%20Weak%20and%20Strong%20AI.jpg)
