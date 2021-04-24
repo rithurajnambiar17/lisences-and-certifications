@@ -1,9 +1,9 @@
 # [Udemy](https://www.udemy.com/)
-## Complete Machine Learning and Data Science Bootcamp
+## Complete Python Developer
 ## Zero To Mastery
 
 Date of Issuance 29/03/2021 
-Rithuraj Nambiar successfully completed the [Complete Machine Learning and Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
-![Certificate-Image](https://github.com/rithurajnambiar17/lisences-and-certifications/blob/master/Courses/Complete%20Machine%20Learning%20and%20Data%20Science%20Bootcamp%20-%20Zero%20To%20Mastery/Complete%20Machine%20Learning%20and%20Data%20Science%20Bootcamp%20-%20Zero%20To%20Mastery.jpg)
+Rithuraj Nambiar successfully completed the [Complete Python Developer](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+![Certificate-Image](https://github.com/rithurajnambiar17/lisences-and-certifications/blob/master/Courses/Complete%20Python%20Developers%20-%20Zero%20to%20Mastery/Complete%20Python%20Developers%20-%20Zero%20To%20Mastery.jpg)
 
-## [Verify the certificate here!](ude.my/UC-8aec3443-7cad-4625-9696-961196939580)
+## [Verify the certificate here!](ude.my/UC-f80e9016-c6b3-4f1e-a2e5-94238717e2c1/)
