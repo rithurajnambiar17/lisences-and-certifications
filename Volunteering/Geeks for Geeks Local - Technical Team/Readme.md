@@ -1,9 +1,5 @@
-# [Udemy](https://www.udemy.com/)
-## Complete Machine Learning and Data Science Bootcamp
-## Zero To Mastery
+# [Geeks for Geeks - Local](https://www.geeksforgeeks.org/)
+## Geeks for Geeks chapter VIT Bhopal
 
-Date of Issuance 29/03/2021 
-Rithuraj Nambiar successfully completed the [Complete Machine Learning and Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
-![Certificate-Image](https://github.com/rithurajnambiar17/lisences-and-certifications/blob/master/Courses/Complete%20Machine%20Learning%20and%20Data%20Science%20Bootcamp%20-%20Zero%20To%20Mastery/Complete%20Machine%20Learning%20and%20Data%20Science%20Bootcamp%20-%20Zero%20To%20Mastery.jpg)
-
-## [Verify the certificate here!](ude.my/UC-8aec3443-7cad-4625-9696-961196939580)
+Rithuraj Nambiar actively volunteered the Geeks for Geeks Local - Geeks for Geeks VIT Bhopal
+![Certificate-Image](https://github.com/rithurajnambiar17/lisences-and-certifications/blob/master/Volunteering/Geeks%20for%20Geeks%20Local%20-%20Technical%20Team/Geeks%20For%20Geeks%20Local%20-%20Technical%20Team.jpg)
